@@ -1,0 +1,10 @@
+.page.theme_light {
+  --site-background: #e5d9f2;
+  --title-color: #a594f9;
+  --section-title: #353430;
+  --text-background: #cdc1ff;
+  --article-text: #353430;
+  --article-title: #353430;
+  /*--background-url: url(../images/cover-image-light\ 1.png);*/
+  --display: none;
+}

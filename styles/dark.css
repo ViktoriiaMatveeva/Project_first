@@ -1,0 +1,9 @@
+.page.theme_dark {
+  --site-background: #062726;
+  --title-color: #e2cfea;
+  --section-title: #e2cfea;
+  --text-background: #6247aa;
+  --article-text: #e2cfea;
+  --article-title: #102b3f;
+  --display: block;
+}
